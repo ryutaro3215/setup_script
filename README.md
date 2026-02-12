@@ -22,8 +22,8 @@ bunx create-turbo@latest
 
 3. change directory to the newly created project:
 
-```cd $your-project-name
-
+```
+cd $your-project-name
 ```
 
 4. Install setup_turborepo.sh in your project directory:
@@ -37,12 +37,12 @@ your-project-directory
 
 5. Make the script executable by running:
 
-```chmod +x setup_turborepo.sh
-
+```
+chmod +x setup_turborepo.sh
 ```
 
 6. Run the script with the following command:
 
-```./setup_turborepo.sh
-
+```
+./setup_turborepo.sh
 ```
